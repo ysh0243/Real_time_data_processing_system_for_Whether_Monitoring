@@ -18,4 +18,4 @@ A simple real-time weather monitoring system that retrieves weather data from th
 - **Node.js**: Download and install [Node.js](https://nodejs.org/).
 - **OpenWeatherMap API Key**: Sign up at [OpenWeatherMap](https://openweathermap.org/) to obtain a free API key.
 
-## Project Structure
+
