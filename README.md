@@ -4,7 +4,7 @@
 ## Overview
 A simple real-time weather monitoring system that retrieves weather data from the OpenWeatherMap API and displays it for various cities. The application provides current temperature, country information, and triggers alerts when the temperature exceeds user-defined thresholds for consecutive readings.
 
-![Weather Monitoring Screenshot](screenshot.png)<img width="1398" alt="Whether Monitoring" src="https://github.com/user-attachments/assets/0a52bb5b-b5c7-44b0-ac98-4894351f333a">
+![Weather Monitoring Screenshot]<img width="1398" alt="Whether Monitoring" src="https://github.com/user-attachments/assets/0a52bb5b-b5c7-44b0-ac98-4894351f333a">
 
 
 ## Features
